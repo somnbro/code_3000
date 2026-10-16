@@ -29,7 +29,7 @@ def link_records(anon_df, aux_df):
     matching = pd.merge(anon_un, aux_un, on=quasi)
 
 
-    final = matching[['anon_id','name']]
+    final = matching[['anon_id','name']].rename(columns={'name': 'matched_name'})
 
     return final
 
