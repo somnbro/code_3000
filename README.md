@@ -1,3 +1,9 @@
+## Personal Ethics Statement (HW9) - Som N
+
+Based on my reading of Chapter 5 of Ethical Machines - specifically the "Better Content Guides Actions" section - I believe it is important to have **good** ethics statements. The author of Ethical Machines explains that it is important not only to put out generic statements, but ones that specifically represent the values of an organization, why it is important and how to tie it into concrete guardrails. He also mentions that it is important to include intiatives of how an organization goes about it in order to 'stick to the plan'. Personally I believe that given a fair governing body, ethics statements can be useful in order to keep certain organizations in check. There are some common goals and values listed, such as security and transparency that many people would agree with, that adhering to ethics statements can help. There have been reports of large AI models allegedly stealing information, and hacking into research. While this is not good, at least there is still someone that can be held accountable under their own AI ethics statements. The author mentions that a good statement also has strategies for mitigating risk. The thought of any of the AI-nightmares coming true isn't great, so creating a culture where this is baked into the development process and why a certain value is important is a good idea, at least.
+
+
+
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
